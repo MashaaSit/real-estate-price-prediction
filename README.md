@@ -1,6 +1,6 @@
 # real-estate-price-prediction
 
 - **EDA**
-- ** Data vizualization**
+- **Data vizualization**
 - **Support Vector Regression (SVR)**
 - **Hyperparameter Tuning (grid-search & K-fold)**
